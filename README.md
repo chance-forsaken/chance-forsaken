@@ -1,6 +1,7 @@
-<img align="center" src="https://64.media.tumblr.com/cf58324fd74382a983ee3f3664ba4541/1c98582c1d7551be-c4/s2048x3072/a20e79891eca2fdfece33ebcc3883304020e9054.pnj">
-<img align="left" src="https://static.wikitide.net/damnationwiki/thumb/d/d5/ChanceOld_2DRender.png/800px-ChanceOld_2DRender.png" width="400">
 <div align="center">
-
+<img align="center" src="https://64.media.tumblr.com/f9110232684d83891c09d479f195fd23/58241b304e2fe519-2f/s1280x1920/d8743825b3d996c6f7184db6b88a19ea5fdae310.pnj" width="600">
+<img align="center" src="https://64.media.tumblr.com/e79a72485919f7ce5d4c1ee3c0860ecc/e45d5aa04452dd45-05/s640x960/af8326faad26607cef43adc6fe537ed78ae458f3.pnj" width="600">
+<div align="center">
+  
 [straw](https://mewbites.straw.page/) [atabook](https://mewbites.atabook.org/)
 </div>
