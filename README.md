@@ -3,5 +3,5 @@
 <img align="center" src="https://i.pinimg.com/originals/eb/99/d6/eb99d669b05a42e41ce827cbf012d607.gif">
 <div align="center">
   
-[straw](https://mewbites.straw.page/) [atabook](https://mewbites.atabook.org/)
+[strawpage](https://mewbites.straw.page/) [atabook](https://mewbites.atabook.org/)
 </div>
